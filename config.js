@@ -29,7 +29,7 @@ module.exports = {
   MENU_URL: process.env.MENU_URL || "https://i.imgur.com/uAFCwnM.mp4",
   CAPTION: process.env.CAPTION || "𝐀𝐜𝐡𝐮𝐭𝐭𝐲💎🍉",
   READ_MSG: toBool(process.env.READ_MSG),
-  OWNER_NAME: process.env.OWNER_NAME || "𝐀𝐜𝐡𝐮𝐭𝐭𝐲🍉💗⁩",
+  OWNER_NAME: process.env.OWNER_NAME || "𝐀𝐜𝐡𝐮𝐭𝐭𝐲🍉🌟⁩",
   BOT_NAME: process.env.BOT_NAME || "𝐀𝐜𝐡𝐮𝐭𝐭𝐲💎🍉",
   SUDO: process.env.SUDO || "918590404292",
   LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
